@@ -1,0 +1,2 @@
+{"shape":"q5_f17408x5120","T":4,"K":5120,"rows":17408,"us_med":127.0,"us_min":126.0,"us_max":129.0,"val_maxerr":1.9373,"val_rel":0.0053}
+{"shape":"q5_f5120x17408","T":4,"K":17408,"rows":5120,"us_med":117.8,"us_min":116.7,"us_max":119.8,"val_maxerr":3.0302,"val_rel":0.0084}

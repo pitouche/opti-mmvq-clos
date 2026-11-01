@@ -1,0 +1,8 @@
+{"shape":"q6_f17408x5120","T":1,"K":5120,"rows":17408,"us_med":111.6,"us_min":110.6,"us_max":113.7,"val_maxerr":435.4258,"val_rel":4.0383}
+{"shape":"q6_f17408x5120","T":4,"K":5120,"rows":17408,"us_med":135.2,"us_min":134.1,"us_max":136.2,"val_maxerr":1143.7692,"val_rel":1.9046}
+{"shape":"q8_f17408x5120","T":1,"K":5120,"rows":17408,"us_med":78.8,"us_min":77.8,"us_max":80.9,"val_maxerr":52.0624,"val_rel":8.2460}
+{"shape":"q8_f17408x5120","T":4,"K":5120,"rows":17408,"us_med":100.4,"us_min":99.3,"us_max":102.4,"val_maxerr":47.8041,"val_rel":23.2589}
+{"shape":"q6_f5120x17408","T":1,"K":17408,"rows":5120,"us_med":113.7,"us_min":112.6,"us_max":115.7,"val_maxerr":152.4333,"val_rel":0.4888}
+{"shape":"q6_f5120x17408","T":4,"K":17408,"rows":5120,"us_med":135.2,"us_min":133.1,"us_max":136.2,"val_maxerr":1180.4940,"val_rel":2.3118}
+{"shape":"q8_f5120x17408","T":1,"K":17408,"rows":5120,"us_med":72.7,"us_min":71.7,"us_max":73.7,"val_maxerr":38.1162,"val_rel":2.7299}
+{"shape":"q8_f5120x17408","T":4,"K":17408,"rows":5120,"us_med":100.4,"us_min":99.3,"us_max":102.4,"val_maxerr":151.8235,"val_rel":4.8485}
